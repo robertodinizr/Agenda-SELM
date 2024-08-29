@@ -1,6 +1,6 @@
 export const agendaTranslations = {
     en: {
-        day1: "Warm Up",
+        day1: "1234",
         day2: "Day 1",
         day3: "Day 2",
         day4: "Day 3",
@@ -135,7 +135,7 @@ export const agendaTranslations = {
         "return_recanto": "Return to Recanto Cataratas Thermas Resort & Convention"
     },    
     pt: {
-        "day1": "Aquecimento",
+        "day1": "1234",
         "day2": "Dia 1",
         "day3": "Dia 2",
         "day4": "Dia 3",
